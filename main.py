@@ -39,8 +39,8 @@ class Main_Class (QMainWindow):
                 
                 
                 
-
-
+def change(lst):
+    pass
             
         
 
